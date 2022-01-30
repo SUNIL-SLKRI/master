@@ -1,0 +1,9 @@
+{
+	"name": "tccc-project",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e2557fd7-670e-472e-8af0-559b35fae030",
+		"tenantId": "5fbbb1aa-7c08-4487-8c31-80b03ed67c09"
+	}
+}
